@@ -1,0 +1,93 @@
+body {
+margin: 1rem;
+font family: script;
+line-height: 1.5;
+background-color:lightsalmon;
+
+}
+
+h1, h2, h3 {
+font-family: "Indie Flower", cursive;
+font-weight: 400;
+font-style: normal;
+color:#0D530E;
+font-size: 40pt;
+}
+
+
+p {
+font-family: "Satisfy", cursive;
+font-weight: 400;
+font-style: normal;
+color: #021A54;
+font-size: 22pt;
+}
+
+li, ul {
+font-family: "Homemade Apple", cursive;
+font-weight: 400;
+font-style: normal;
+color: darkblue;
+font-size: 23pt;
+}
+
+ .minion{
+ background-color: #F2613F;
+ padding: 20px;
+ border-radius: 90px;
+ }
+
+
+.banana{
+ background-color: #D53E0F;
+ padding: 20px;
+ margin: 30px;
+ border-radius: 84px; 
+ }
+
+
+.nasi{
+padding: 20px;
+}
+
+nav {
+padding: 20px; 
+background-color: #F2613F;
+border-style: dashed;
+border-color: #628141;
+border-width: 3px; 
+border-radius: 30px;
+}
+
+nav a {
+text-decoration: none;
+color: darkblue;
+font-family: "Satisfy", cursive;
+font-weight: 400;
+font-style: normal;
+font-size: 20pt
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
